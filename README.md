@@ -163,6 +163,6 @@ The code in this repository is released under the **Apache 2.0 License**.
 ## Contact
 
 - **Issues**: Please open a GitHub Issue for bug reports or suggestions.
-- **Email**: wangshuiyuan@mail.nwpu.edu.cn, lxie@nwpu.edu.cn
+- **Email**: wangshuiyuan@mail.nwpu.edu.cn, zxzhao@mail.nwpu.edu.cn
 
 
