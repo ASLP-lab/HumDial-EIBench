@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Paper](https://arxiv.org/pdf/2604.11594)](#)
-[![Dataset](https://huggingface.co/datasets/ASLP-lab/HumDial-EIBench)](#)
-[![License](https://img.shields.io/badge/License-TBD-lightgrey)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-COLOR.svg)](https://arxiv.org/pdf/2604.11594)  
+[![hf](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/ASLP-lab/HumDial-EIBench)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-green)](https://github.com/ASLP-lab/HumDial-EIBench)
 
 </div>
 
@@ -142,7 +142,27 @@ The script automatically identifies the target evaluation turn (second non-neutr
 
 ---
 
+## Citation
+
+If you find this work useful, please cite:
+
+@misc{wang2026humdialeibenchhumanrecordedmultiturnemotional,
+      title={HumDial-EIBench: A Human-Recorded Multi-Turn Emotional Intelligence Benchmark for Audio Language Models}, 
+      author={Shuiyuan Wang and Zhixian Zhao and Hongfei Xue and Chengyou Wang and Shuai Wang and Hui Bu and Xin Xu and Lei Xie},
+      year={2026},
+      eprint={2604.11594},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2604.11594}, 
+}
+
+## License
+
+The code in this repository is released under the **Apache 2.0 License**.
+
 ## Contact
 
-For questions or collaboration, please open an issue in this repository.
+- **Issues**: Please open a GitHub Issue for bug reports or suggestions.
+- **Email**: wangshuiyuan@mail.nwpu.edu.cn, lxie@nwpu.edu.cn
+
 
