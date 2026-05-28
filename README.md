@@ -4,9 +4,7 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-COLOR.svg)](https://arxiv.org/pdf/2604.11594)  
-[![hf](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/ASLP-lab/HumDial-EIBench)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-green)](https://github.com/ASLP-lab/HumDial-EIBench)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-COLOR.svg)](https://arxiv.org/pdf/2604.11594)  [![hf](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/ASLP-lab/HumDial-EIBench)  [![GitHub](https://img.shields.io/badge/GitHub-Repo-green)](https://github.com/ASLP-lab/HumDial-EIBench)
 
 </div>
 
@@ -146,6 +144,7 @@ The script automatically identifies the target evaluation turn (second non-neutr
 
 If you find this work useful, please cite:
 
+```bibtex
 @misc{wang2026humdialeibenchhumanrecordedmultiturnemotional,
       title={HumDial-EIBench: A Human-Recorded Multi-Turn Emotional Intelligence Benchmark for Audio Language Models}, 
       author={Shuiyuan Wang and Zhixian Zhao and Hongfei Xue and Chengyou Wang and Shuai Wang and Hui Bu and Xin Xu and Lei Xie},
@@ -155,6 +154,7 @@ If you find this work useful, please cite:
       primaryClass={eess.AS},
       url={https://arxiv.org/abs/2604.11594}, 
 }
+```
 
 ## License
 
