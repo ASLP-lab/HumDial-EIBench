@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-ArXiv-blue)](#)
-[![Dataset](https://img.shields.io/badge/Dataset-HumDial--EIBench-green)](#)
+[![Paper](https://arxiv.org/pdf/2604.11594)](#)
+[![Dataset](https://huggingface.co/datasets/ASLP-lab/HumDial-EIBench)](#)
 [![License](https://img.shields.io/badge/License-TBD-lightgrey)](#)
 
 </div>
@@ -98,8 +98,7 @@ Test robustness when text sentiment contradicts vocal affect (for example, sarca
 ## Data and Code Access
 
 
-- The dataset will be released soon.
-
+- The dataset is publicly available on HuggingFace: [HumDial-EIBench](https://huggingface.co/datasets/ASLP-lab/HumDial-EIBench)
 
 ---
 
